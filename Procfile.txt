@@ -1,0 +1,1 @@
+worker: python tradebyvee_bot.py
